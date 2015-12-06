@@ -1,0 +1,33 @@
+<style>
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,100);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Mono:300);
+
+body{
+  font-family: "Helvetica", "Helvetica Neue", sans-serif;
+}
+
+#notebook {
+  font-size: 1.1em !important;
+  font-weight: 100;
+}
+
+a {
+	color: #138331;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: "Roboto Slab", sans-serif;
+  font-weight: 100 !important;
+}
+
+.CodeMirror{
+  font-family: "Roboto Mono", monospace;
+  font-weight: 300;
+}
+
+div.prompt{
+  font-family: "Roboto Mono", monospace;
+  font-weight: 300;
+}
+
+</style>
