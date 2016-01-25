@@ -1,0 +1,14 @@
+name: social-data-environment
+
+dependencies:
+  - python=3.4
+  - numpy
+  - toolz
+  - matplotlib
+  - dill
+  - pandas
+  - bokeh
+  - seaborn
+  - pip:
+    - git+https://github.com/blaze/dask.git#egg=dask[complete]
+    - git+https://github.com/sixohsix/twitter.git
