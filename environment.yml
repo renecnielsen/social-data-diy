@@ -9,6 +9,7 @@ dependencies:
   - pandas
   - bokeh
   - seaborn
+  - pymongo
   - pip:
     - git+https://github.com/blaze/dask.git#egg=dask[complete]
     - git+https://github.com/sixohsix/twitter.git
