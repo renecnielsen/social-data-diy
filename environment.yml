@@ -2,12 +2,8 @@ name: social-data-environment
 
 dependencies:
   - python=2.7
-  - csv
   - json
   - cPickle
-  - sys
-  - re
-  - os
   - uuid
   - time
   - urllib2
