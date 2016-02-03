@@ -2,7 +2,19 @@ name: social-data-environment
 
 dependencies:
   - python=3.4
+  - csv
+  - json
+  - cPickle
+  - sys
+  - re
+  - os
+  - uuid
+  - time
+  - urllib2
+  - httplib
   - numpy
+  - scipy
+  - sklearn
   - toolz
   - matplotlib
   - dill
