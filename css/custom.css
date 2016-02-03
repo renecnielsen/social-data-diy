@@ -12,7 +12,7 @@ body{
 }
 
 a {
-	color: #138331;
+	color: #497285;
 }
 
 h1, h2, h3, h4, h5 {
@@ -29,5 +29,17 @@ div.prompt{
   font-family: "Roboto Mono", monospace;
   font-weight: 300;
 }
+
+.renderjson a              { text-decoration: none; }
+.renderjson .disclosure    { color: crimson;
+                             font-size: 150%; }
+.renderjson .syntax        { color: grey; }
+.renderjson .string        { color: black; }
+.renderjson .number        { color: #0CCA98; }
+.renderjson .boolean       { color: #5E366A; }
+.renderjson .key           { color: #497285; }
+.renderjson .keyword       { color: #2B4450; }
+.renderjson .object.syntax { color: #3FBAC2; }
+.renderjson .array.syntax  { color: #F78536; }
 
 </style>
